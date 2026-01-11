@@ -45,6 +45,13 @@
 	],
 	"currentBackgroundImageId": "",
 	"socialButtons": [
+	    {
+			"id": "cf-blog",
+			"type": "link",
+			"value": "https://blog.haoqi75.qzz.io",
+			"label": "CF版博客",
+			"order": 3
+		},
 		{
 			"id": "github",
 			"type": "github",
