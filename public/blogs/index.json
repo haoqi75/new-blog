@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "slug": "cf-blog",
+    "title": "CloudFlare Workers可以搭建博客了",
+    "tags": [],
+    "date": "2026-01-11T10:37",
+    "summary": "",
+    "cover": "/blogs/cf-blog/0ea10b09ea8d3dba.png",
+    "hidden": false,
+    "category": ""
+  }
+]
