@@ -14,7 +14,7 @@
 		"name": "CF workers blog",
 		"logo": "https://cdn.jsdelivr.net/gh/gdtool/cloudflare-workers-blog@master/themes/JustNews/files/logo2.png",
 		"url": "https://blog.gezhong.vip/",
-		"description": "一个博客",
+		"description": "博客构建从你开始。",
 		"tags": [
 			"GitHub",
 			"Blog"
