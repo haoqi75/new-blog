@@ -24,14 +24,6 @@
 	],
 	"artImages": [
 		{
-			"id": "cat",
-			"url": "/images/art/cat.png"
-		},
-		{
-			"id": "a46372ff45bc5524",
-			"url": "/images/art/a46372ff45bc5524.jpg"
-		},
-		{
 			"id": "my-logo",
 			"url": "/images/art/My logo.jpg"
 		}
@@ -45,7 +37,7 @@
 	],
 	"currentBackgroundImageId": "",
 	"socialButtons": [
-	    {
+		{
 			"id": "cf-blog",
 			"type": "link",
 			"value": "https://blog.haoqi75.qzz.io",
