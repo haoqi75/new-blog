@@ -33,9 +33,13 @@
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "0924e88b1311506c",
+			"url": "/images/background/0924e88b1311506c.png"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "0924e88b1311506c",
 	"socialButtons": [
 		{
 			"id": "cf-blog",
