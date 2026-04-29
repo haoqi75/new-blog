@@ -1,0 +1,11 @@
+{
+  "title": "NodeAuth部署指南",
+  "tags": [
+    "CloudFlare"
+  ],
+  "date": "2026-04-29T11:31",
+  "summary": "NodeAuth是基于CF里的2FA程序，完美解决了现场没有2FA程序的尴尬，这个软件有手就可以部署。",
+  "cover": "https://cp.qtdt.qzz.io/api/p/HuggingFace_Dataset/puplic_blog/nodeauth.png?download=true&sign=Dken65rTXHcTUXeCm0b3yvMEGczKZFYtMUiSQdRCVc4%3D%3A0",
+  "hidden": false,
+  "category": "功能"
+}
